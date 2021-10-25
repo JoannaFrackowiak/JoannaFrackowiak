@@ -1,4 +1,4 @@
-Hi 👋 I'm Joanna and I'm looking for my first job as Java Developer. 
+## Hi 👋 I'm Joanna and I'm looking for my first job as Java Developer. 
 I would like gain experience, develop my skills and learn best practices from people with more experience. 
 Now I create simply Web applications. Welcome to my profile.
 
